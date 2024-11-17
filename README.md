@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alon</h1>
-<h3 align="center">A passionate Quality Assurance Engineer, PHP Developer and Salsa Dancer</h3>
+<h3 align="center">A passionate Automation Developer, PHP Developer</h3>
 
 - 🔭 I’m currently working on **a web-based trivia game which I'll host one day**
 
