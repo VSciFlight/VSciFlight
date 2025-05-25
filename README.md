@@ -64,13 +64,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/zuco20001">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zuco20001&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
