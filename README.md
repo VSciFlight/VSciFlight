@@ -21,17 +21,15 @@
   </a>
 </div>
 
-###
-
-<h2 align="center">Hey There, I am Alon</h2>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I am developing a web based trivia game called Lapiz, which is about general knowledge. <br>- 📚 I started studying Industrial Engineering and Management in HIT.<br>- ⚡ Curious about a lot of things.</p>
+<p align="left">
+- 🔭 I am developing a web based trivia game called Lapiz, which is about general knowledge.
+<br>- 📚 I started studying Industrial Engineering and Management in HIT.
+<br>- ⚡ Curious about a lot of things.
+</p>
 
 ###
 
